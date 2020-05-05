@@ -1,0 +1,8 @@
+venv/
+
+
+for.robot
+teardowns.robot
+falhas_previstas.robot
+esperas.robot
+argumentos.robot
